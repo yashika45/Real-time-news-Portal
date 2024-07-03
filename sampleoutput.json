@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 2749,
+  "articles": [
+    {
+      "source": { "id": null, "name": "The New Yorker" },
+      "author": "Simon Webster",
+      "title": "Understanding the Laws of Cricket",
+      "description": "My hope is that these brief and straightforward instructions will bring legions of new fans into the British Empire—I mean, global cricket family.",
+      "url": "https://www.newyorker.com/humor/daily-shouts/understanding-the-laws-of-cricket",
+      "urlToImage": "https://media.newyorker.com/photos/6579d39668872af306a7c711/16:9/w_1280,c_limit/Webster-Shouts-Cricket.jpg",
+      "publishedAt": "2023-12-14T11:00:00Z",
+      "content": "Cricket is the second most popular sport in the world, with some two and a half billion fans globally, including several Americans. And theres always room for more, which is why Ive prepared this sho… [+4172 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Usman Khawaja: Cricket Australia warns batter against making Gaza message",
+      "description": "The Australian batter had planned to wear shoes bearing the words \"all lives are equal\" during a Test.",
+      "url": "https://www.bbc.co.uk/news/world-australia-67700408",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DE29/production/_132037865_gettyimages-1846372164.jpg",
+      "publishedAt": "2023-12-13T05:12:15Z",
+      "content": "Australian cricketer Usman Khawaja has been warned against showing an on-field message in support of Palestinians at a Test match against Pakistan.\r\nThe batter had planned to wear shoes bearing the w… [+1424 chars]"
+    },
+    {
+      "source": { "id": null, "name": "XDA Developers" },
+      "author": "Christopher Burke",
+      "title": "How to download Cricket 07 in Windows 11",
+      "description": "Although Cricket games are no longer made by EA, you can still play the classic Cricket 07 on Windows 11",
+      "url": "https://www.xda-developers.com/how-download-cricket-07-windows/",
+      "urlToImage": "https://static1.xdaimages.com/wordpress/wp-content/uploads/wm/2023/12/77.png",
+      "publishedAt": "2023-12-23T12:00:25Z",
+      "content": "EA was the king of sports games in the early 2000s, covering nearly every major sport. Cricket was one of the recurring titles in the EA Sports franchise. But, by the end of the decade, EA stopped pr… [+4660 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Blackpool Tower fire: Five other times people were fooled by false alarms",
+      "description": "After orange netting was mistaken for flames, we revisit five other big public \"whoops\" moments.",
+      "url": "https://www.bbc.co.uk/news/uk-67802959",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/84C2/production/_132168933_01hjrkww9b6na25se5xhhmv2ev.jpg",
+      "publishedAt": "2023-12-29T14:15:20Z",
+      "content": "Things are not always what they seem. And there is no better example of that old adage than Blackpool Tower and the fire that never was.\r\nOn Thursday, six fire engines, a drone team and a rope-rescue… [+3911 chars]"
+    }
+  ]
+}
